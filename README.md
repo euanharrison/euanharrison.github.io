@@ -1,23 +1,19 @@
-# Mechanical Engineering Portfolio Starter
+# Euan Harrison – Engineering Portfolio
 
-A free, static portfolio for GitHub Pages. All projects are **sample placeholders** until you replace them with your work.
+## Contents
+- `index.html` — homepage with circular headshot and links to Projects A–D
+- `about.html` — separate About page
+- `project-a.html` … `project-d.html` — four separate case-study pages
+- `styles.css`, `script.js` — styling and small helper script
+- `assets/headshot.png` — headshot supplied by Euan
 
-## Publish on GitHub Pages
+## Publishing this version to GitHub Pages
+**Important:** GitHub's website uploader can be awkward for updating existing files. The simplest method for this small site is to open each existing HTML/CSS/JS file on GitHub, click the pencil icon, replace its contents with the matching file from this ZIP, and commit changes. To add the new files (`about.html`, `project-a.html`, `project-b.html`, `project-c.html`, `project-d.html`, `assets/headshot.png`), use Add file → Upload files. Keep all `.html`, `.css`, `.js` files in the repository root and `headshot.png` inside `assets/`.
 
-1. Create a GitHub account or sign in.
-2. Create a public repository named `YOURUSERNAME.github.io` (substitute your exact GitHub username).
-3. Upload the **contents** of this folder (not the folder itself): `index.html`, `project.html`, `styles.css`, `script.js`, and `assets/`.
-4. In repository Settings > Pages, choose **Deploy from a branch**, branch **main**, folder **/(root)**, then Save.
-5. Visit `https://YOURUSERNAME.github.io/`. Publishing can take several minutes.
+Alternatively, use GitHub Desktop to commit and push the whole updated folder, automatically applying replacements and additions.
 
-## Customize before adding the link to your résumé
+**Contact link:** Replace every occurrence of `YOUR_EMAIL_HERE` with the email address you want publicly displayed. Until you do this, the Contact links will not work. Search all `.html` files for this text. Do not add a private email unless you want it public.
 
-- Edit the introductory text in `index.html`.
-- Replace all three placeholder project cards with actual project names and images.
-- Edit `project.html` for your first case study; copy it to other filenames to create more projects, and update card links in `index.html`.
-- Add imagery under `assets/` and swap the background placeholder blocks for actual `<img>` elements or use CSS backgrounds.
-- Put your résumé at `assets/resume.pdf` or change the résumé link.
-- Replace `YOUR_EMAIL_HERE` with your public professional email.
-- Check skills for accuracy; do not claim certifications or tools not yet earned.
+You can delete the older `project.html` if it exists, since the homepage no longer uses it.
 
-This starter has no build step, paid dependencies, or monthly hosting fees.
+After changes are committed, GitHub Pages typically redeploys in a few minutes.
