@@ -8,3 +8,7 @@ Construction gallery only:
 - Every other website page and layout is unchanged.
 
 Publish: copy all extracted files into local GitHub repo (replace where asked), delete any old `assets/construction/renovation-*.webp` files if desired, then Commit to main and Push origin.
+
+
+## Version 10 — Web Design case study
+Expanded project-b.html into one detailed project page based on the uploaded COVID-19 project report website. Source screenshots/diagrams are optimized in assets/web-design. Original project report is not a runnable complete COVID system; live-demo link intentionally omitted.
