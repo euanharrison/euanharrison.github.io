@@ -1,5 +1,9 @@
-Euan Harrison portfolio — version 5.
+Euan Harrison Engineering Portfolio — Version 6
 
-Updated the powerlifting hero to show the full photograph, placed all six photos in tidy contained gallery cards, and arranged videos side-by-side in squat / bench / deadlift order.
+Changes from Version 5:
+- Removed the problematic lead powerlifting photo and its gallery copy.
+- Replaced the +100 kg competition highlight with “3 years — Powerlifting for 3 years”.
+- Removed the visible Project A/B/C/D/E labels from homepage cards and project pages.
+- All other content and styling remains unchanged.
 
-Replace the files in your GitHub Desktop cloned repository, commit, then Push origin.
+Replace your GitHub repository files with these files, commit and push.
