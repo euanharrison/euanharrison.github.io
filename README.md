@@ -1,12 +1,5 @@
-# Euan Harrison — Engineering Portfolio (Version 4)
+Euan Harrison portfolio — version 5.
 
-This is the complete website, including the updated About page, Project E photos, and three browser-compatible MP4 video clips.
+Updated the powerlifting hero to show the full photograph, placed all six photos in tidy contained gallery cards, and arranged videos side-by-side in squat / bench / deadlift order.
 
-## Update on GitHub Desktop
-1. Extract this ZIP.
-2. In GitHub Desktop, open Repository → Show in Explorer.
-3. Copy **all files and folders inside** this extracted directory into your repository directory, replacing files when prompted.
-4. In GitHub Desktop, Commit to main, then Push origin.
-5. Wait for GitHub Pages deployment and refresh your site.
-
-Note: CATIA certification is marked as exam preparation until successful completion is confirmed. Project E clip captions are generic pending lift identifications.
+Replace the files in your GitHub Desktop cloned repository, commit, then Push origin.
