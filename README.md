@@ -1,15 +1,11 @@
-# Euan Harrison engineering portfolio — Version 7
+# Euan Harrison engineering portfolio — Version 8
 
-## What's new
-- Construction & Carpentry page includes **all 8 projects** from `House renovations.pptx`, their documented steps, 112 combined hours, and **all 11 embedded photos**, optimized for web.
-- LEGO Robotics was removed from the homepage, and `project-c.html` was removed from this distribution.
-- All other project pages, including International Powerlifting, are retained from Version 6.
+Updates requested:
+- Extracted all 19 photos, including before images stored as PowerPoint picture placeholders that were missed in Version 7.
+- Cropped black screenshot margins in the photos, without cropping renovation subjects.
+- Every renovation now includes its before and after photos where present.
+- Corrected the living-room first image to “Finished result.”
+- Removed the “11 original project photographs” statistic.
+- Other website pages remain unchanged.
 
-## Updating GitHub Desktop
-1. Extract the ZIP. Open GitHub Desktop → Repository → Show in Explorer.
-2. Copy **all contents** of this extracted folder to the cloned repository root. Replace existing files.
-3. **IMPORTANT: delete the old `project-c.html` file from your local repository**, since copying a newer folder does not delete files left over from an earlier version.
-4. GitHub Desktop → Commit to main → Push origin.
-5. Wait for GitHub Pages to deploy, then refresh.
-
-All images are local under `assets/construction`; no external image hosting required.
+To publish: extract ZIP; copy its contents into the local GitHub Desktop repository root, replacing current files. Commit to main, then Push origin. Keep the old LEGO Robotics `project-c.html` deleted if it remains in your repository.
